@@ -1,0 +1,32 @@
+.StudentInfo {
+  display: table;
+  width: 100%;
+  height: auto;
+}
+
+.tableRow {
+  border: 1px solid black;
+  display: table-row;
+}
+.tableCell-1 {
+  border: 1px solid black;
+  display: table-cell;
+  text-align: center;
+  font-weight: bold;
+}
+.tableCell-2 {
+  border: 1px solid black;
+  display: table-cell;
+  text-align: center;
+}
+#center-search {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 550px;
+  border-radius: 50px;
+  height: 40px;
+  border: 1px solid #dddddd;
+  padding-left: 30px;
+  font-size: 1em;
+}
